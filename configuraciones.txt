@@ -1,0 +1,13 @@
+
+carpeta client correr
+
+npm start
+
+
+carpeta server correr
+
+npm run devStart
+
+
+
+
